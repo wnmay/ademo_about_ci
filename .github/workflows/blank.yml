@@ -1,4 +1,4 @@
-```
+
 name: Vitest
 
 on:
@@ -25,4 +25,3 @@ jobs:
 
       - name: Run Vitest
         run: npx vitest run
-```
